@@ -1,0 +1,2 @@
+# Survey
+For this project we will be exploring data from Developers’ Survey done by stackoverflow.com every year. This data is huge consisting of around 1 lac developers’ world-wide and on multiple factors.    As part of this DataSet there are two files -    survey_results_schema.csv – It contains list of all the columns and their description  survey_results_public.csv – It contains the Survey data corresponding to different columns
